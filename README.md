@@ -2,7 +2,7 @@
 
 **This data analysis project analyzes the number of Airbnb listings in Toronto, Ontario.**
 
-**This project involves:**
+This project involves:
 
 1) Using **Python** for data cleaning and preperation:
    * Individual CSV files for each month were downloaded from http://insideairbnb.com/toronto/
