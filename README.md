@@ -4,7 +4,7 @@
 
 This project involves:
 
-1) Using **Python** for data cleaning and preperation:
+1) Using **Python** for data cleaning and preparation:
    * Individual CSV files for each month were downloaded from http://insideairbnb.com/toronto/
    * The CSV files were cleaned and combined into one CSV to prepare it for Tableau
   
