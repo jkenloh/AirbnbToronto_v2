@@ -1,5 +1,4 @@
-# AirbnbToronto_v2
-Airbnb Data Analysis Project Version 2
+# Airbnb Toronto Listings Project
 
 **This data analysis project analyzes the number of Airbnb listings in Toronto, Ontario.**
 
