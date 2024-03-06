@@ -11,7 +11,7 @@ This project involves:
 Python Code: [view code on nbviewer](https://nbviewer.org/github/jkenloh/AirbnbToronto_v2/blob/main/Airbnb%20Project%20v2%20-%20Python%20Code.ipynb)
   
 2) Using **Tableau** for data visualization and analysis:
-   * A GeoJSON file, also downloaded from the same data source, was joined with my prepared CSV file directly within Tableau. This was done to obtain geographic data related to the neighborhoods for mapping in the visualization.
+   * A GeoJSON file, also downloaded from the same data source, was joined with my prepared Airbnb data table directly within Tableau. This was done to obtain geographic data related to the neighborhoods for mapping in the visualization.
 
 Tableau dashboard: https://public.tableau.com/app/profile/ken.loh/viz/Airbnbv2_17094345780450/Dashboard
      
